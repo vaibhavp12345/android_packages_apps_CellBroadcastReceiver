@@ -34,7 +34,7 @@
 
     <application android:name="CellBroadcastReceiverApp"
             android:label="@string/app_label"
-            android:icon="@mipmap/ic_launcher_cell_broadcast"
+            android:icon="@mipmap/ic_launcher"
             android:backupAgent="CellBroadcastBackupAgent"
             android:defaultToDeviceProtectedStorage="true"
             android:supportsRtl="true"
